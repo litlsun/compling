@@ -9,4 +9,5 @@
 3. Возможность загрузки фотографий
 
 Пример работы:
+
 ![image](https://github.com/user-attachments/assets/908a343e-7a2a-461f-ad1b-96e669eb7407)
