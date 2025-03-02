@@ -1,20 +1,12 @@
-# crispy-spoon
-# Headline 1
-## Headline 2
-### Headline 3
-**open-source** *library* ***for*** ~NLP~ 
+# Задание 3: Разработка Telegram-бота
 
-```
-print ('Hello, World!)
-```
+## Продвинутый уровень
+Ссылка на бот: https://t.me/Compling_advanced3_bot
 
-This is my `code`
+### Функционал бота
+1. Возможность использования кнопок "О компании" и "Пожаловаться"
+2. Ответы на вопросы пользователя на основе оценки семантического сходства
+3. Возможность загрузки фотографий
 
-[link](https://github.com/litlsun/crispy-spoon/edit/main/README.md) 
-
-![Image Description](https://i.pinimg.com/736x/d4/c4/42/d4c442a8ceddb5a7b6fe793b6d3c3c41.jpg)
-
-table
-|  1 |  2 | 3  | 4  |  5 |
-|---|---|---|---|---|
-|  1 | 2  |  3 | 4  |  5 |
+Пример работы:
+![image](https://github.com/user-attachments/assets/908a343e-7a2a-461f-ad1b-96e669eb7407)
